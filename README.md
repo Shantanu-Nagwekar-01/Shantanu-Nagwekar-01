@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shantanu-Nagwekar-01&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shantanu-Nagwekar-01&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Nagwekar-01&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu-Nagwekar-01&show_icons=true&theme=radical)
 
 ---
